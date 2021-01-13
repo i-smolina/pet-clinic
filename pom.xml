@@ -51,7 +51,7 @@
         </plugins>
     </build>
     <scm>
-        <developerConnection>scm:git:git@github.com:i-smolina/pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/i-smolina/pet-clinic.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 </project>
